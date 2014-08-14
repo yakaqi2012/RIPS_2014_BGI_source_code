@@ -1,0 +1,3 @@
+SNP	Catalogue Id	Region	Genes	Allele_frequency	Trait	Population	Platform	Pubmed	
+chr1:2526745:C/X:1	rs3748816	1p36.32	TNFRSF14, MMEL1	0.66	Celiac disease	4,533 European descent cases, 10,750 European descent controls	Illumina [292,387]	20190752	
+

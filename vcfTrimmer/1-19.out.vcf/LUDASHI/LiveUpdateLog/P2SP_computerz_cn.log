@@ -1,0 +1,462 @@
+2012-11-04 12:35:37:945[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-11-04 15:05:47:940[warn ]-->[P2SP_DetectIEProxySetting] cost 296 ms
+
+2012-11-04 15:05:47:992[warn ]-->[TaskScheduler] OnTimer cost:468ms, queue:0.
+
+2012-11-04 21:52:59:613[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-11-04 21:53:00: 87[note ]-->[1.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201209/m_13481219173175.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13481219173175.jpg
+
+2012-11-04 21:53:00:115[note ]-->[1.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-04 21:53:00:115[note ]-->[1.] DNS www.ludashi.com -  220.181.24.12
+
+2012-11-04 21:53:00:288[error]-->[1.  2] HTTP服务器不支持断点续传，返回200
+
+2012-11-04 21:53:00:396[note ]-->[1.] [FINISH] Filelen:21058(Byte), Time:312(ms), Avgrate:67(KBps), P2S:21058(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-11-04 21:53:00:415[note ]-->[2.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201210/m_13503513653147.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13503513653147.jpg
+
+2012-11-04 21:53:00:416[note ]-->[2.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-04 21:53:00:417[note ]-->[2.] DNS www.ludashi.com -  220.181.24.12
+
+2012-11-04 21:53:00:715[note ]-->[2.] [FINISH] Filelen:8079(Byte), Time:297(ms), Avgrate:27(KBps), P2S:8079(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-11-04 21:53:00:820[note ]-->[3.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201209/m_13481134628639.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13481134628639.jpg
+
+2012-11-04 21:53:00:821[note ]-->[3.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-04 21:53:00:823[note ]-->[3.] DNS www.ludashi.com -  220.181.24.12
+
+2012-11-04 21:53:01:121[note ]-->[3.] [FINISH] Filelen:12432(Byte), Time:296(ms), Avgrate:42(KBps), P2S:12432(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-11-04 21:53:01:222[note ]-->[4.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201209/m_13481220154966.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13481220154966.jpg
+
+2012-11-04 21:53:01:223[note ]-->[4.] DNS www.ludashi.com -  220.181.24.12
+
+2012-11-04 21:53:01:223[note ]-->[4.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-04 21:53:01:398[note ]-->[4.] [FINISH] Filelen:19398(Byte), Time:171(ms), Avgrate:113(KBps), P2S:19398(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-11-04 21:53:01:427[note ]-->[5.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201209/m_13481219534851.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13481219534851.jpg
+
+2012-11-04 21:53:01:428[note ]-->[5.] DNS www.ludashi.com -  220.181.24.12
+
+2012-11-04 21:53:01:429[note ]-->[5.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-04 21:53:01:786[note ]-->[5.] [FINISH] Filelen:21370(Byte), Time:358(ms), Avgrate:59(KBps), P2S:21370(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-11-04 21:53:01:832[note ]-->[6.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201209/m_13481218159750.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13481218159750.jpg
+
+2012-11-04 21:53:01:833[note ]-->[6.] DNS www.ludashi.com -  220.181.24.12
+
+2012-11-04 21:53:01:834[note ]-->[6.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-04 21:53:02: 34[note ]-->[6.] [FINISH] Filelen:18872(Byte), Time:203(ms), Avgrate:92(KBps), P2S:18872(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-11-04 21:53:11:754[note ]-->[7.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201210/m_13515685743213.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13515685743213.jpg
+
+2012-11-04 21:53:11:755[note ]-->[7.] DNS www.ludashi.com -  220.181.24.12
+
+2012-11-04 21:53:11:756[note ]-->[7.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-04 21:53:11:979[note ]-->[7.] [FINISH] Filelen:18856(Byte), Time:218(ms), Avgrate:86(KBps), P2S:18856(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-11-04 21:53:12:257[note ]-->[8.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201210/m_13512160216485.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13512160216485.jpg
+
+2012-11-04 21:53:12:258[note ]-->[8.] DNS www.ludashi.com -  220.181.24.12
+
+2012-11-04 21:53:12:258[note ]-->[8.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-04 21:53:12:432[note ]-->[8.] [FINISH] Filelen:20428(Byte), Time:172(ms), Avgrate:118(KBps), P2S:20428(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-11-04 21:53:12:462[note ]-->[9.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201210/m_13509564451702.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13509564451702.jpg
+
+2012-11-04 21:53:12:463[note ]-->[9.] DNS www.ludashi.com -  220.181.24.12
+
+2012-11-04 21:53:12:464[note ]-->[9.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-04 21:53:12:664[note ]-->[9.] [FINISH] Filelen:19799(Byte), Time:203(ms), Avgrate:97(KBps), P2S:19799(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-11-04 21:53:12:867[note ]-->[10.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201209/m_13481259593925.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13481259593925.jpg
+
+2012-11-04 21:53:12:868[note ]-->[10.] DNS www.ludashi.com -  220.181.24.12
+
+2012-11-04 21:53:12:869[note ]-->[10.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-04 21:53:13: 68[note ]-->[10.] [FINISH] Filelen:20422(Byte), Time:203(ms), Avgrate:100(KBps), P2S:20422(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-11-04 21:53:13:270[note ]-->[11.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201209/m_13481256725306.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13481256725306.jpg
+
+2012-11-04 21:53:13:271[note ]-->[11.] DNS www.ludashi.com -  220.181.24.12
+
+2012-11-04 21:53:13:271[note ]-->[11.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-04 21:53:13:571[note ]-->[11.] [FINISH] Filelen:15469(Byte), Time:296(ms), Avgrate:52(KBps), P2S:15469(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-11-04 21:53:13:674[note ]-->[12.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201209/m_13481255968839.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13481255968839.jpg
+
+2012-11-04 21:53:13:675[note ]-->[12.] DNS www.ludashi.com -  220.181.24.12
+
+2012-11-04 21:53:13:676[note ]-->[12.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-04 21:53:13:862[note ]-->[12.] [FINISH] Filelen:19295(Byte), Time:187(ms), Avgrate:103(KBps), P2S:19295(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-11-12 17:10:22:948[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-11-19 11:58:04:281[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-11-19 23:49:52: 71[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-11-19 23:50:14:799[note ]-->[1.] URL = pdown://p2=8FAE797EB06CAEA80F4F2AD1B5E324881FD7A6C3|p3=20|p4=1800|p5=6|h1=8FAE797EB06CAEA80F4F2AD1B5E324881FD7A6C3|h3=60|h7=5|b2=9564672|b5=驱动下载|b6=Apple Device 6.0.9999.59 All|b7=1|b9=1|k=1|http://driver.360safe.com/apple/apple_device_6.0.9999.59.msi|s2=4|s3=computerz_cn|p13=0|p6=2| File=D:\Program Files\LuDaShi\DriverUpdate\apple_device_6.0.9999.59.msi
+
+2012-11-19 23:50:14:802[note ]-->[1.] DNS agd.p.360.cn -  123.125.73.183 202.102.98.32 202.102.98.33 202.102.98.34
+
+2012-11-19 23:50:14:852[note ]-->[1.] DNS driver.360safe.com -  220.181.66.92 220.181.156.24 220.181.156.25 220.181.156.83 220.181.158.119 220.181.158.120 220.181.158.121 220.181.158.122 220.181.158.140 220.181.66.91
+
+2012-11-19 23:50:14:961[note ]-->[1.] DNS 180.153.229.139 -  180.153.229.139
+
+2012-11-19 23:50:19:456[note ]-->[1.] [FINISH] Filelen:9564672(Byte), Time:4649(ms), Avgrate:2057(KBps), P2S:9564672(100%), P2P:0(0%) Dup 0%, P2S Dup 7300, P2P Dup 0, MaxConNum:5
+
+2012-11-20 19:03:32:708[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-11-30 20:24:38:746[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-12-03 22:56:01:104[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-12-05 12:52:05:705[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-12-09 10:13:32:963[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-12-09 10:13:33:106[warn ]-->[TaskScheduler] type:7, taskid:0, cost:140ms, queue:0.
+
+2012-12-09 12:16:47:427[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-12-11 23:48:01:965[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-12-16 10:15:49: 50[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-12-16 19:14:06:579[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-12-16 19:14:37:359[note ]-->[1.] URL = pdown://k=1|h7=5|http://www.ludashi.com/online/201211/m_13533913416512.jpg|s2=4|s3=computerz_cn|p13=0|p6=2| File=C:\Users\ADMINI~1\AppData\Local\Temp\_CZ\m_13533913416512.jpg
+
+2012-12-16 19:14:37:394[note ]-->[1.] DNS www.ludashi.com -  220.181.24.12
+
+2012-12-16 19:14:37:398[note ]-->[1.] DNS agd.p.360.cn -  202.102.98.34 123.125.73.183 202.102.98.32 202.102.98.33
+
+2012-12-16 19:14:37:576[note ]-->[1.] [FINISH] Filelen:21770(Byte), Time:219(ms), Avgrate:99(KBps), P2S:21770(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2012-12-24 12:19:10:625[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2012-12-25 17:08:44:392[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2014-06-12 11:37:48:983[note ]-->[Update Ie Proxy] WPAD[0], Proxy[], PAC[], DialUp[0]
+
+2014-06-12 11:37:51:565[note ]-->[1.] URL = pdown://b2=332116|p2=8830C1362AF5CA576FA38FE14B76B7044A5C446B|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/360p2spdll_1.3.0.1066.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~AD9E.tmp
+
+2014-06-12 11:37:51:632[note ]-->[1.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:37:51:662[note ]-->[1.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:37:51:897[note ]-->Tracker Login success, WAN 143.89.234.98:8090  LAN 143.89.234.98:8090  peerid: 360P0068E68B4958E739
+
+2014-06-12 11:37:52:165[note ]-->[1.] [FINISH] Filelen:332116(Byte), Time:609(ms), Avgrate:545(KBps), P2S:332116(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:37:52:638[note ]-->[2.] URL = pdown://b2=403446|p2=894942CD986D58A05952F176688424882862C586|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/adbexe_2.0.0.1010.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~B1D4.tmp
+
+2014-06-12 11:37:52:639[note ]-->[2.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:37:52:639[note ]-->[2.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:37:53:339[note ]-->[2.] [FINISH] Filelen:403446(Byte), Time:702(ms), Avgrate:574(KBps), P2S:403446(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:37:53:693[note ]-->[3.] URL = pdown://b2=53157|p2=0FC26A953D9BF40DE9FFDEEBCF150110713FA898|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/adbwinapidll_2.0.0.0.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~B5F9.tmp
+
+2014-06-12 11:37:53:694[note ]-->[3.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:37:53:695[note ]-->[3.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:37:54:169[note ]-->[3.] [FINISH] Filelen:53157(Byte), Time:468(ms), Avgrate:113(KBps), P2S:53157(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:37:54:726[note ]-->[4.] URL = pdown://b2=35807|p2=3224A66B14F3A81E5B7EC0C56DA182B404AAD4D1|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/adbwinusbapidll_2.0.0.0.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~BA00.tmp
+
+2014-06-12 11:37:54:726[note ]-->[4.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:37:54:727[note ]-->[4.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:37:55: 80[note ]-->[4.] [FINISH] Filelen:35807(Byte), Time:359(ms), Avgrate:99(KBps), P2S:35807(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:37:55:761[note ]-->[5.] URL = pdown://b2=43188|p2=D4478739C752EDE14EB6D7B5D1252CF869A114B6|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/atiags32dll_1.0.1.0.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~BE07.tmp
+
+2014-06-12 11:37:55:762[note ]-->[5.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:37:55:763[note ]-->[5.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:37:56: 85[note ]-->[5.] [FINISH] Filelen:43188(Byte), Time:327(ms), Avgrate:132(KBps), P2S:43188(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:37:56:803[note ]-->[6.] URL = pdown://b2=252418|p2=0D31BB549820D3723A3ECE955E420F85496C2FB4|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computermonzexe_2.0.0.1010.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~C21D.tmp
+
+2014-06-12 11:37:56:804[note ]-->[6.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:37:56:805[note ]-->[6.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:37:57:398[note ]-->[6.] [FINISH] Filelen:252418(Byte), Time:593(ms), Avgrate:425(KBps), P2S:252418(100%), P2P:0(0%) Dup 0%, P2S Dup 1460, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:37:57:826[note ]-->[7.] URL = pdown://b2=13521|p2=72A56E2EDFAB7A3F2CBF134E110C926AAE19BBF6|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerzsys_1.6.13.1019.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~C623.tmp
+
+2014-06-12 11:37:57:826[note ]-->[7.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:37:57:827[note ]-->[7.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:37:58:170[note ]-->[7.] [FINISH] Filelen:13521(Byte), Time:344(ms), Avgrate:39(KBps), P2S:13521(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:37:58:844[note ]-->[8.] URL = pdown://b2=93491|p2=9B6CD0D84C6212EDCAF745BAD13D98FA6C39FF8B|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz_benchdll_1.0.13.1002.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~CA1A.tmp
+
+2014-06-12 11:37:58:845[note ]-->[8.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:37:58:845[note ]-->[8.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:37:59:358[note ]-->[8.] [FINISH] Filelen:93491(Byte), Time:515(ms), Avgrate:181(KBps), P2S:93491(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:37:59:898[note ]-->[9.] URL = pdown://b2=3287664|p2=9C88E50CD2A45C94DBEC43CEC6F7D30EA89661F6|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz_cnexe_3.60.13.1030.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~CE31.tmp
+
+2014-06-12 11:37:59:899[note ]-->[9.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:37:59:900[note ]-->[9.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:02:565[note ]-->[9.] [FINISH] Filelen:3287664(Byte), Time:2667(ms), Avgrate:1232(KBps), P2S:2572288(78%), P2P:715376(21%) Dup 4%, P2S Dup 27172, P2P Dup 131072, MaxConNum:5
+
+2014-06-12 11:38:03:111[note ]-->[10.] URL = pdown://b2=536640|p2=0B3235C696F454613C7526DA695067B736C550FC|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz_hardwaredlldll_1.0.13.1029.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~DABF.tmp
+
+2014-06-12 11:38:03:112[note ]-->[10.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:03:112[note ]-->[10.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:03:897[note ]-->[10.] [FINISH] Filelen:536640(Byte), Time:796(ms), Avgrate:674(KBps), P2S:536640(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:04:183[note ]-->[11.] URL = pdown://b2=14183|p2=7137812C4C13ABD89A2F777C0576D1ED47A40D10|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz_x64sys_1.6.13.1019.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~DEF5.tmp
+
+2014-06-12 11:38:04:183[note ]-->[11.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:04:184[note ]-->[11.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:04:695[note ]-->[11.] [FINISH] Filelen:14183(Byte), Time:514(ms), Avgrate:27(KBps), P2S:14183(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:05:214[note ]-->[12.] URL = pdown://b2=421273|p2=3EED68FA8C770E49E0FF367B3219C356F7472284|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz0dll_1.0.13.1027.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~E2FB.tmp
+
+2014-06-12 11:38:05:216[note ]-->[12.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:05:217[note ]-->[12.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:05:884[note ]-->[12.] [FINISH] Filelen:421273(Byte), Time:671(ms), Avgrate:627(KBps), P2S:421273(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:06:253[note ]-->[13.] URL = pdown://b2=516372|p2=44913C4CB0EC39CE409B36B1BBD4DEB4D1B4247F|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz1dll_1.0.13.1008.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~E711.tmp
+
+2014-06-12 11:38:06:253[note ]-->[13.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:06:254[note ]-->[13.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:07:124[note ]-->[13.] [FINISH] Filelen:516372(Byte), Time:874(ms), Avgrate:590(KBps), P2S:516372(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:07:287[note ]-->[14.] URL = pdown://b2=47740|p2=85E5E390278F87B64FCFBC4E9CBFE066AEE44715|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz10dll_1.0.13.1002.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~EB18.tmp
+
+2014-06-12 11:38:07:287[note ]-->[14.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:07:288[note ]-->[14.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:07:616[note ]-->[14.] [FINISH] Filelen:47740(Byte), Time:328(ms), Avgrate:145(KBps), P2S:47740(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:08:308[note ]-->[15.] URL = pdown://b2=72295|p2=23D2AF91DBE055DC8A5E6A6C4E84817819014CB8|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz2dll_1.0.13.1008.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~EF0F.tmp
+
+2014-06-12 11:38:08:309[note ]-->[15.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:08:310[note ]-->[15.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:08:649[note ]-->[15.] [FINISH] Filelen:72295(Byte), Time:327(ms), Avgrate:221(KBps), P2S:72295(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:09:340[note ]-->[16.] URL = pdown://b2=96312|p2=D9990607F66C0B91180B7201CE61183D373BA4ED|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz4dll_1.2.13.1004.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~F325.tmp
+
+2014-06-12 11:38:09:340[note ]-->[16.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:09:341[note ]-->[16.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:09:790[note ]-->[16.] [FINISH] Filelen:96312(Byte), Time:453(ms), Avgrate:212(KBps), P2S:96312(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:10:371[note ]-->[17.] URL = pdown://b2=105095|p2=8BD85086304103ABAEF911D684923E1C092A0568|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz4_x64dll_1.2.13.1004.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~F72C.tmp
+
+2014-06-12 11:38:10:372[note ]-->[17.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:10:372[note ]-->[17.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:10:862[note ]-->[17.] [FINISH] Filelen:105095(Byte), Time:483(ms), Avgrate:217(KBps), P2S:105095(100%), P2P:0(0%) Dup 6%, P2S Dup 0, P2P Dup 6791, MaxConNum:5
+
+2014-06-12 11:38:11:393[note ]-->[18.] URL = pdown://b2=103186|p2=FC8E08DBCC02D9373435484A7498C6F0FE3867A4|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz5dll_1.0.13.1025.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~FB23.tmp
+
+2014-06-12 11:38:11:394[note ]-->[18.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:11:395[note ]-->[18.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:12: 95[note ]-->[18.] [FINISH] Filelen:103186(Byte), Time:702(ms), Avgrate:146(KBps), P2S:103186(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:12:418[note ]-->[19.] URL = pdown://b2=70517|p2=039FC822AB6E97C9C9AD732B87748C8E5E666579|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz7dll_2.78.13.1003.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~FF29.tmp
+
+2014-06-12 11:38:12:419[note ]-->[19.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:12:420[note ]-->[19.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:12:767[note ]-->[19.] [FINISH] Filelen:70517(Byte), Time:344(ms), Avgrate:204(KBps), P2S:54133(76%), P2P:16384(23%) Dup 27%, P2S Dup 2920, P2P Dup 16384, MaxConNum:5
+
+2014-06-12 11:38:13:441[note ]-->[20.] URL = pdown://b2=73029|p2=649654380213091941C5FB67025F79CE743B24B8|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerz7_x64dll_2.78.13.1003.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~330.tmp
+
+2014-06-12 11:38:13:442[note ]-->[20.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:13:443[note ]-->[20.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:14:  7[note ]-->[20.] [FINISH] Filelen:73029(Byte), Time:562(ms), Avgrate:129(KBps), P2S:73029(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:14:471[note ]-->[21.] URL = pdown://b2=41543|p2=FA54118690D40E248DE69783BD3D6450934CFA48|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerzhelper_x64exe_1.0.13.1001.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~737.tmp
+
+2014-06-12 11:38:14:472[note ]-->[21.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:14:473[note ]-->[21.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:14:916[note ]-->[21.] [FINISH] Filelen:41543(Byte), Time:436(ms), Avgrate:95(KBps), P2S:41543(100%), P2P:0(0%) Dup 21%, P2S Dup 8775, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:15:492[note ]-->[22.] URL = pdown://b2=121603|p2=15E289FFB39EA8F3459F9FDCF01A87FB943C203B|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/computerzserviceexe_1.0.13.1027.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~B2E.tmp
+
+2014-06-12 11:38:15:492[note ]-->[22.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:15:493[note ]-->[22.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:16: 92[note ]-->[22.] [FINISH] Filelen:121603(Byte), Time:608(ms), Avgrate:200(KBps), P2S:121603(100%), P2P:0(0%) Dup 1%, P2S Dup 1460, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:16:579[note ]-->[23.] URL = pdown://b2=713479|p2=24AB9BA9ECD94BCF72A7EEC276ACBC8E0F36E3EE|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/corespk_3.0.0.1001.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~F73.tmp
+
+2014-06-12 11:38:16:580[note ]-->[23.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:16:581[note ]-->[23.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:17:380[note ]-->[23.] [FINISH] Filelen:713479(Byte), Time:795(ms), Avgrate:897(KBps), P2S:713479(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:18:635[note ]-->[24.] URL = pdown://b2=952989|p2=4F5444A94E3EC29513B349FCECC789B0450A5806|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/gdiplusdll_5.2.6001.22319.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~176F.tmp
+
+2014-06-12 11:38:18:636[note ]-->[24.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:18:636[note ]-->[24.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:20:369[note ]-->[24.] [FINISH] Filelen:952989(Byte), Time:1732(ms), Avgrate:550(KBps), P2S:952989(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:20:740[note ]-->[25.] URL = pdown://b2=214108|p2=27E9A92233407AE90C93ED33D09166B6E9445BB1|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/installstatdll_2.78.11.1115.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~1FAA.tmp
+
+2014-06-12 11:38:20:741[note ]-->[25.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:20:741[note ]-->[25.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:21:384[note ]-->[25.] [FINISH] Filelen:214108(Byte), Time:656(ms), Avgrate:326(KBps), P2S:180224(84%), P2P:33884(15%) Dup 7%, P2S Dup 0, P2P Dup 16384, MaxConNum:5
+
+2014-06-12 11:38:21:781[note ]-->[26.] URL = pdown://b2=7611897|p2=3C64736530812E33F201064B0559386B17B49C31|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/ldsspk_3.0.0.1001.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~23C1.tmp
+
+2014-06-12 11:38:21:782[note ]-->[26.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:21:782[note ]-->[26.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:27: 88[note ]-->[26.] [FINISH] Filelen:7611897(Byte), Time:5304(ms), Avgrate:1435(KBps), P2S:7595513(99%), P2P:16384(0%) Dup 0%, P2S Dup 49720, P2P Dup 16384, MaxConNum:5
+
+2014-06-12 11:38:27:941[note ]-->[27.] URL = pdown://b2=59646|p2=EE9AC64BE4B64A5F525D8777D31954AC802F5DE2|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/ldsbenchmarkdll_1.0.13.1002.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~3BD4.tmp
+
+2014-06-12 11:38:27:942[note ]-->[27.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:27:943[note ]-->[27.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:28:579[note ]-->[27.] [FINISH] Filelen:59646(Byte), Time:639(ms), Avgrate:93(KBps), P2S:59646(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:28:982[note ]-->[28.] URL = pdown://b2=200150|p2=46B3BB1305819FBA2C20FE52012F7F6F59DB3AA5|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/liveupd360dll_1.3.0.1100.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~3FEA.tmp
+
+2014-06-12 11:38:28:983[note ]-->[28.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:28:983[note ]-->[28.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:29:519[note ]-->[28.] [FINISH] Filelen:200150(Byte), Time:530(ms), Avgrate:377(KBps), P2S:196608(98%), P2P:3542(1%) Dup 1%, P2S Dup 3542, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:30: 12[note ]-->[29.] URL = pdown://b2=2458|p2=5E74BD8837E3797D2447C4050B2DF433A7CAD7D8|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/logdat_1.0.0.1020.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~43F0.tmp
+
+2014-06-12 11:38:30: 13[note ]-->[29.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:30: 13[note ]-->[29.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:30:310[note ]-->[29.] [FINISH] Filelen:2458(Byte), Time:297(ms), Avgrate:8(KBps), P2S:2458(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:31: 44[note ]-->[30.] URL = pdown://b2=7708812|p2=057E0C0E5FAA7DB08F0D1C3438784CE7ED811EA4|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/ludashiapk_3.0.0.1002.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~47F7.tmp
+
+2014-06-12 11:38:31: 45[note ]-->[30.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:31: 46[note ]-->[30.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:36:698[note ]-->[30.] [FINISH] Filelen:7708812(Byte), Time:5647(ms), Avgrate:1365(KBps), P2S:7708812(100%), P2P:0(0%) Dup 0%, P2S Dup 39176, P2P Dup 8332, MaxConNum:5
+
+2014-06-12 11:38:37:183[note ]-->[31.] URL = pdown://b2=659710|p2=D6BC8D27C145CBABFF2BD77327006CDC1241AAE7|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/miniuidll_9.0.0.2110.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~5FEB.tmp
+
+2014-06-12 11:38:37:184[note ]-->[31.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:37:184[note ]-->[31.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:38:123[note ]-->[31.] [FINISH] Filelen:659710(Byte), Time:936(ms), Avgrate:704(KBps), P2S:659710(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:39:388[note ]-->[32.] URL = pdown://b2=133537|p2=3BE1A86A1EBCA3DE9D2683C2C882F7CC58ED5AC0|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/msvcp100dll_10.0.40219.1.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~6893.tmp
+
+2014-06-12 11:38:39:388[note ]-->[32.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:39:388[note ]-->[32.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:40:288[note ]-->[32.] [FINISH] Filelen:133537(Byte), Time:905(ms), Avgrate:147(KBps), P2S:133537(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:41:416[note ]-->[33.] URL = pdown://b2=412858|p2=0BEF8C8406AB6668F837AA9A9F75A70AADE04F98|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/msvcr100dll_10.0.40219.1.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~7080.tmp
+
+2014-06-12 11:38:41:417[note ]-->[33.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:41:418[note ]-->[33.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:42:575[note ]-->[33.] [FINISH] Filelen:412858(Byte), Time:1154(ms), Avgrate:357(KBps), P2S:311296(75%), P2P:101562(24%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:43:467[note ]-->[34.] URL = pdown://b2=359|p2=9D7FD880C2F6BC249AA445BC66E0F091209C0308|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/nnetdat_1.0.0.1001.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~787D.tmp
+
+2014-06-12 11:38:43:468[note ]-->[34.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:43:468[note ]-->[34.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:43:738[note ]-->[34.] [FINISH] Filelen:359(Byte), Time:280(ms), Avgrate:1(KBps), P2S:359(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:44:506[note ]-->[35.] URL = pdown://b2=105371|p2=FC9C73370AEB9FB168F7B1ACD9494CC4CBA3D0ED|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/pdowndll_1.3.0.1100.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~7C93.tmp
+
+2014-06-12 11:38:44:507[note ]-->[35.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:44:508[note ]-->[35.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:45:194[note ]-->[35.] [FINISH] Filelen:105371(Byte), Time:686(ms), Avgrate:153(KBps), P2S:105371(100%), P2P:0(0%) Dup 1%, P2S Dup 1460, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:45:540[note ]-->[36.] URL = pdown://b2=2038400|p2=46D555B2B2C860608DAC656C24884E6DBF8AB050|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/swirlenginedll_1.3.2.665.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~8099.tmp
+
+2014-06-12 11:38:45:541[note ]-->[36.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:45:542[note ]-->[36.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:47:141[note ]-->[36.] [FINISH] Filelen:2038400(Byte), Time:1607(ms), Avgrate:1268(KBps), P2S:2038400(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:47:769[note ]-->[37.] URL = pdown://b2=71283|p2=F1EB7EA2EC1363BD89226AD4276C078B5AB88230|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/updateexe_2.0.13.1001.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~8951.tmp
+
+2014-06-12 11:38:47:770[note ]-->[37.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:47:770[note ]-->[37.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:48:173[note ]-->[37.] [FINISH] Filelen:71283(Byte), Time:406(ms), Avgrate:175(KBps), P2S:71283(100%), P2P:0(0%) Dup 0%, P2S Dup 0, P2P Dup 0, MaxConNum:5
+
+2014-06-12 11:38:48:807[note ]-->[38.] URL = pdown://b2=93128|p2=721EF4DBFBCC8B5A9BDA2A1CEE2C3E5287356828|p3=20|p7=15|k=2|c2=1|b5=鲁大师|b6=程序升级|b7=5|b9=1|http://down.360safe.com/ludashi/wifiassistdlldll_1.0.0.1003.cab|s2=4|s3=computerz_cn|p13=0| File=D:\Program Files\LuDaShi\update\~8D58.tmp
+
+2014-06-12 11:38:48:808[note ]-->[38.] DNS down.360safe.com -  182.118.40.197
+
+2014-06-12 11:38:48:809[note ]-->[38.] DNS agd.p.360.cn -  180.153.229.31 180.153.229.32 180.153.229.33 180.153.229.137 180.153.229.157 202.102.98.32 202.102.98.33 202.102.98.34 220.181.132.30 220.181.132.31 180.153.229.29 180.153.229.30
+
+2014-06-12 11:38:49:313[note ]-->[38.] [FINISH] Filelen:93128(Byte), Time:500(ms), Avgrate:186(KBps), P2S:93128(100%), P2P:0(0%) Dup 1%, P2S Dup 1460, P2P Dup 0, MaxConNum:5
+
